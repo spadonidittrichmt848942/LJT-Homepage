@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am a first-year PhD candidate at the [HKUST NLP Group](https://nlp-glkust.github.io/), advised by Professor Junxian He. My research focuses on natural language processing and machine learning, with particular interests in:
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning, with particular interests in:
 
 - **LLM Reasoning and Reinforcement Learning**
 - **Hallucination in Vision-Language Models (VLM)**
