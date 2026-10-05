@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Junteng Liu**, a first-year Ph.D. candidate at the **HKUST NLP Group**, Hong Kong University of Science and Technology (HKUST). My research focuses on **natural language processing (NLP)** and **machine learning (ML)**.
 
-I am advised by **Professor Junxian He**, who leads the HKUST NLP Group. Professor Junxian He also previously advised me during my undergraduate studies at Shanghai Jiao tong University (SJTU).
+I am advised by **Professor Junxian He**, who leads the HKUST NLP Group. Professor Junxian He also previously advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU).
 
 My research interests include:
 - LLM Reasoning and Reinforcement Learning
