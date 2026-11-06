@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the HKUST NLP Group, advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024; Professor Junxian He also advised me during my undergraduate studies there.
 
 My research focuses on **natural language processing** and **machine learning**. My research interests include:
 
